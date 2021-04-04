@@ -11,8 +11,9 @@ My name is Sourav. I am a problem solver.
 ### Reach me at
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 
-<img align="left" alt="medium" style="padding-bottom: 2em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<br/>
 
 ### Languages
 
@@ -23,10 +24,10 @@ My name is Sourav. I am a problem solver.
 <img align="left" alt="medium" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="medium" style="margin-bottom: 2em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
+<br/>
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=THESUESANZ&layout=compact)
 
 <p></p>
 
@@ -36,3 +37,4 @@ My name is Sourav. I am a problem solver.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suesanz&layout=compact)
 
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=THESUESANZ&layout=compact)
