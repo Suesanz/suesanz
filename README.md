@@ -2,11 +2,11 @@
 
 My name is Sourav. I am a problem solver.
 
-- 🔭 I’m currently working at Baazi Games.
-- 🌱 I’m currently learning to live.
-- 💬 Ask me about React Native.
-- 📫 How to reach me: https://linkedin.com/in/souravyadav
-- ⚡ Fun fact: Do not push important feature in production on friday.
+- 🔭  I’m currently working at Baazi Games.
+- 🌱  I’m currently learning to live.
+- 💬  Ask me about React Native.
+- 📫  How to reach me: https://linkedin.com/in/souravyadav
+- ⚡  Fun fact: Do not push important feature in production on friday.
 
 ### Reach me at
 
