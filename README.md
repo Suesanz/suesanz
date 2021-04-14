@@ -17,6 +17,7 @@ My name is Sourav. I am a problem solver.
 
 ### Languages
 
+<div style="display:flex; flex-direction:row;margin-bottom:2em;justify-content:space-between">
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -25,6 +26,7 @@ My name is Sourav. I am a problem solver.
 <img align="left" alt="medium" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
 <br/>
 <p></p>
