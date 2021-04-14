@@ -26,9 +26,7 @@ My name is Sourav. I am a problem solver.
 <img align="left" alt="medium" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
-<br/>
-
-
+ 
 <p></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suesanz&show_icons=true)
