@@ -10,22 +10,9 @@ My name is Sourav. I am a problem solver.
 
 <p></p>
 
-<div style="display:flex; flex-direction:row;flex-wrap:wrap;>
-
-<p></p>
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=THESUESANZ&layout=compact)
-
-<p></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suesanz&layout=compact)
-
-
-<p></p>
-
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=THESUESANZ&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suesanz&show_icons=true)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suesanz&layout=comp)
 
 <br/>
 
