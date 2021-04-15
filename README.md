@@ -17,7 +17,7 @@ My name is Sourav. I am a problem solver.
 
 ### Languages
 
-<div style="display:flex; flex-direction:row;margin-bottom:2em;justify-content:space-between">
+<div style="display:flex; flex-direction:row;margin-bottom:25px;justify-content:space-between">
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -28,10 +28,18 @@ My name is Sourav. I am a problem solver.
 <img align="left" alt="medium" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<div style="margin-top:10px">
+<div style="display:flex; flex-direction:column;margin-top:10px">
+
+<p></p>
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=THESUESANZ&layout=compact)
+
+<p></p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suesanz&show_icons=true)  
+
+<p></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suesanz&layout=compact)
 
 </div>
