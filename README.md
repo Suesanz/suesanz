@@ -28,12 +28,16 @@ My name is Sourav. I am a problem solver.
 <img align="left" alt="medium" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
+<div style="margin-top:10px">
+
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=THESUESANZ&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suesanz&show_icons=true)
-
-<p></p>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suesanz&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suesanz&layout=compact)
+
+</div>
+
+
+
+
 
 
