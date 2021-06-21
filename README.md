@@ -2,7 +2,7 @@
 
 My name is Sourav. I am a problem solver.
 
-- 🔭  I’m currently working at Baazi Games.
+- 🔭  I’m currently working at Razorpay.
 - 🌱  I’m currently learning GraphQL.
 - 💬  Ask me about React Native.
 - 📫  How to reach me: https://linkedin.com/in/souravyadav
