@@ -42,7 +42,7 @@ My name is Sourav. I am a problem solver.
 
 <p></p>
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=THESUESANZ&layout=compact)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suesanz&layout=compact)
 
 <p></p>
 
