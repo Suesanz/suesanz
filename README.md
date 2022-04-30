@@ -3,7 +3,7 @@
 My name is Sourav. I am a problem solver.
 
 - 🔭  I’m currently working at Razorpay.
-- 🌱  I’m currently learning GraphQL.
+- 🌱  I’m currently learning CI/CD.
 - 💬  Ask me about React Native.
 - 📫  How to reach me: https://linkedin.com/in/souravyadav
 - ⚡  Fun fact: Do not push important feature to production on friday.
@@ -35,6 +35,10 @@ My name is Sourav. I am a problem solver.
 <img align="center" alt="medium" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   
 <img align="center" alt="medium" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" pointer-events: none/>
+
+<img align="center" alt="medium" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" pointer-events: none/>
+
+<img align="center" alt="medium" src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" pointer-events: none/>
 
 </div>
 
