@@ -2,7 +2,7 @@
 
 My name is Sourav. I am a problem solver.
 
-- 🔭  I’m a Frontend Developer at Razorpay.
+- 🔭  I’m Frontend Developer at Razorpay.
 - 🌱  I’m currently learning CI/CD.
 - 💬  Ask me about React Native.
 - 📫  How to reach me: https://linkedin.com/in/souravyadav
