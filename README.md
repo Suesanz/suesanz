@@ -3,8 +3,8 @@
 My name is Sourav. I am a problem solver.
 
 - 🔭  I’m Senior Frontend Engineer at Razorpay.
-- 💬  Ask me about React/React Native.
-- 📫  How to reach me: https://linkedin.com/in/souravyadav
+- 🚀  I build web and mobile apps.
+- 📫  How to reach me: [LinkedIn](https://linkedin.com/in/souravyadav), [Email](mailto@yadavsourav24071998@gmail.com)
 - ⚡  Fun fact: Do not push important feature to production on friday.
 
 
@@ -44,8 +44,6 @@ My name is Sourav. I am a problem solver.
 <br/>
 
 <p></p>
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suesanz&layout=compact)
 
 <p></p>
 
