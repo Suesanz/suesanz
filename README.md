@@ -4,7 +4,7 @@ My name is Sourav. I am a problem solver.
 
 - 🔭  I’m Senior Frontend Engineer at Razorpay.
 - 🚀  I build web and mobile apps.
-- 📫  How to reach me: [LinkedIn](https://linkedin.com/in/souravyadav), [Email](mailto@yadavsourav24071998@gmail.com)
+- 📫  How to reach me: [LinkedIn](https://linkedin.com/in/souravyadav), [Email](mailto:yadavsourav24071998@gmail.com)
 - ⚡  Fun fact: Do not push important feature to production on friday.
 
 
